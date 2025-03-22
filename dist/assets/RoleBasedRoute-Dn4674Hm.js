@@ -1,0 +1,1 @@
+import"./index-CWISwWJd.js";function a(e){switch(e){case"ROLE_MANAGER":return"/managers";case"ROLE_STAFF":return"/staffs";case"ROLE_BREEDER":return"/breeders";case"ROLE_MEMBER":default:return"/"}}export{a as r};
