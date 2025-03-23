@@ -1,1 +1,0 @@
-const e={production:!0,be:{baseUrl:"https://koi-auction-be-az-dtarcyafdhc2gcen.southeastasia-01.azurewebsites.net/api/v1",apiPrefix:"/api/v1",endPoint:{login:"/login",register:"/register",auctions:"/auctions",kois:"/kois",bidding:"/bidding",orders:"/orders",socket:"/auction-websocket"}}};export{e};
