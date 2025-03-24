@@ -1,0 +1,1 @@
+import{j as e,k as r}from"./index-CZBwRkMB.js";import{A as s}from"./environment-BzuYHCkO.js";const t=async()=>(await r.get(`${s.BASE}/breeders`)).data.data,u=()=>e({queryKey:["breeders"],queryFn:t});export{u};
